@@ -10,6 +10,7 @@ namespace Bookify.Web.Data
             : base(options)
         {
         }
+
         public DbSet<Category> Categories { get; set; }
     }
 }
