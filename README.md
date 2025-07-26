@@ -1,10 +1,12 @@
 # Bookify
 
-<img width="1033" height="366" alt="image" src="https://github.com/user-attachments/assets/dc05c41d-26d9-4fbc-a578-1bd60702b00b" />
-
 ## Overview
 
 Bookify is a web application built with .NET Core MVC, designed for book enthusiasts to browse, manage, and engage with a collection of books. Whether you're discovering new reads, organizing your library, or connecting with other readers, Bookify provides a robust and user-friendly platform to enhance your reading experience.
+
+## Sequence Diagram 
+<img width="1033" height="366" alt="image" src="https://github.com/user-attachments/assets/dc05c41d-26d9-4fbc-a578-1bd60702b00b" />
+
 
 ## Features
 
